@@ -1,4 +1,9 @@
 # Note App with Provider State Management
+Phan Thi Chi -22git
+
+
+https://github.com/user-attachments/assets/ce875920-b53d-490c-8ec4-5061d2b62ee9
+
 
 A Flutter note-taking application that demonstrates state management using Provider and ChangeNotifier.
 
